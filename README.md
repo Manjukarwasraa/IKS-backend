@@ -1,4 +1,4 @@
-# 🌿 IKS Backend API
+#  IKS Backend API
 
 **Indigenous Knowledge & Sustainable Practices Platform**
 
@@ -6,17 +6,17 @@ A backend API developed to support a platform focused on promoting and managing 
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 📌 Create, read, update, and delete (CRUD) data
-* 🗂 Manage records related to sustainable practices and indigenous knowledge
-* 🔗 RESTful API architecture
-* ⚙️ Structured backend using MVC pattern
-* 📡 API testing using Thunder Client / Postman
+*  Create, read, update, and delete (CRUD) data
+*  Manage records related to sustainable practices and indigenous knowledge
+*  RESTful API architecture
+*  Structured backend using MVC pattern
+*  API testing using Thunder Client / Postman
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * **Node.js**
 * **Express.js**
@@ -24,7 +24,7 @@ A backend API developed to support a platform focused on promoting and managing 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 IKS-backend/
@@ -37,22 +37,22 @@ IKS-backend/
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 
 ```bash
 git clone https://github.com/Manjukarwasraa/IKS-backend.git
 cd IKS-backend
 ```
 
-### 2️⃣ Install dependencies
+### 2️ Install dependencies
 
 ```bash
 npm install
 ```
 
-### 3️⃣ Run the server
+### 3️ Run the server
 
 ```bash
 npm start
@@ -60,7 +60,7 @@ npm start
 
 ---
 
-## 🔗 API Endpoints (Sample)
+##  API Endpoints (Sample)
 
 * `POST /api/data` → Add new record
 * `GET /api/data` → Fetch all records
@@ -69,7 +69,7 @@ npm start
 
 ---
 
-## 🌱 Use Case
+##  Use Case
 
 This backend is designed for applications that aim to:
 
@@ -79,14 +79,14 @@ This backend is designed for applications that aim to:
 
 ---
 
-## ⚠️ Note
+##  Note
 
 * This project focuses on backend functionality.
 * Frontend integration can be added for a complete full-stack solution.
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Add user authentication (JWT)
 * Role-based access control
@@ -95,7 +95,7 @@ This backend is designed for applications that aim to:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Manju Karwasra**
 
